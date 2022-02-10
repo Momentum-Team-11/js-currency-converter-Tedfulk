@@ -1,0 +1,2 @@
+GET https://openexchangerates.org/api/latest.json?app_id=47bb71c0c44b47fe805433a34d7cdfdb HTTP/1.1
+Content-Type: application/json
